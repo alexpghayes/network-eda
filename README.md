@@ -3,10 +3,10 @@ brainstorming about tools for EDA for networks
 
 things i want to know:
 
-- # of components and component sizes
+- number of components and component sizes
 - edges: weighted/unweighted, directed/undirected, signed/unsigned
 - multigraph vs graph
-- # of isolated singletons / dyads
+- number of isolated singletons / dyads
 - (in/out degree) distribution
 - first couple singular values
 - rank of adjacency matrix (estimate)
